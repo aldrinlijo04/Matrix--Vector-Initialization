@@ -1,4 +1,4 @@
----
+
 
 ### **Aim**
 To implement a ticketing system where multiple threads simulate ticket allocation concurrently using CUDA.
